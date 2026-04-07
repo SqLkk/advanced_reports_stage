@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "created_at": "2026-04-07T00:00:00Z",
+    "description": "Demo hierarchy data for Advanced Reports Stage",
+    "version": "1.0.0-demo"
+  },
+  "data": [
+    {
+      "b1": 1,
+      "name": "Region Alpha",
+      "children": [
+        { "b2": 101, "name": "Substation A1", "children": [{ "b3": 1001, "name": "Bay A1-1", "combination_id": 5001 }, { "b3": 1002, "name": "Bay A1-2", "combination_id": 5002 }] },
+        { "b2": 102, "name": "Substation A2", "children": [{ "b3": 1003, "name": "Bay A2-1", "combination_id": 5003 }] },
+        { "b2": 103, "name": "Substation A3", "children": [{ "b3": 1004, "name": "Bay A3-1", "combination_id": 5004 }, { "b3": 1005, "name": "Bay A3-2", "combination_id": 5005 }] }
+      ]
+    },
+    {
+      "b1": 2,
+      "name": "Region Beta",
+      "children": [
+        { "b2": 201, "name": "Substation B1", "children": [{ "b3": 2001, "name": "Bay B1-1", "combination_id": 6001 }, { "b3": 2002, "name": "Bay B1-2", "combination_id": 6002 }] },
+        { "b2": 202, "name": "Substation B2", "children": [{ "b3": 2003, "name": "Bay B2-1", "combination_id": 6003 }] }
+      ]
+    },
+    {
+      "b1": 3,
+      "name": "Region Gamma",
+      "children": [
+        { "b2": 301, "name": "Substation C1", "children": [{ "b3": 3001, "name": "Bay C1-1", "combination_id": 7001 }] },
+        { "b2": 302, "name": "Substation C2", "children": [{ "b3": 3002, "name": "Bay C2-1", "combination_id": 7002 }, { "b3": 3003, "name": "Bay C2-2", "combination_id": 7003 }] },
+        { "b2": 303, "name": "Substation C3", "children": [{ "b3": 3004, "name": "Bay C3-1", "combination_id": 7004 }] },
+        { "b2": 304, "name": "Substation C4", "children": [{ "b3": 3005, "name": "Bay C4-1", "combination_id": 7005 }] }
+      ]
+    },
+    {
+      "b1": 4,
+      "name": "Region Delta",
+      "children": [
+        { "b2": 401, "name": "Substation D1", "children": [{ "b3": 4001, "name": "Bay D1-1", "combination_id": 8001 }] },
+        { "b2": 402, "name": "Substation D2", "children": [{ "b3": 4002, "name": "Bay D2-1", "combination_id": 8002 }, { "b3": 4003, "name": "Bay D2-2", "combination_id": 8003 }] }
+      ]
+    }
+  ]
+}

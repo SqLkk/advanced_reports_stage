@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "created_at": "2026-04-07T00:00:00Z",
+    "description": "Demo elements data for Advanced Reports Stage",
+    "version": "1.0.0-demo"
+  },
+  "data": [
+    { "elem": 1, "name": "Transformer T1", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 5001, "nimSatz": 100 }] },
+    { "elem": 2, "name": "Breaker CB10", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 5001, "nimSatz": 101 }] },
+    { "elem": 3, "name": "Disconnector DS10", "noElType": 3, "elemType": 30, "total_combinations": 1, "combinations": [{ "combination_id": 5001, "nimSatz": 102 }] },
+    { "elem": 4, "name": "Transformer T2", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 5002, "nimSatz": 103 }] },
+    { "elem": 5, "name": "Breaker CB11", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 5002, "nimSatz": 104 }] },
+    { "elem": 6, "name": "Transformer T3", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 5003, "nimSatz": 105 }] },
+    { "elem": 7, "name": "Breaker CB12", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 5004, "nimSatz": 106 }] },
+    { "elem": 8, "name": "Disconnector DS11", "noElType": 3, "elemType": 30, "total_combinations": 1, "combinations": [{ "combination_id": 5005, "nimSatz": 107 }] },
+    { "elem": 9, "name": "Transformer T4", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 6001, "nimSatz": 108 }] },
+    { "elem": 10, "name": "Breaker CB20", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 6002, "nimSatz": 109 }] },
+    { "elem": 11, "name": "Transformer T5", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 6003, "nimSatz": 110 }] },
+    { "elem": 12, "name": "Breaker CB30", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 7001, "nimSatz": 111 }] },
+    { "elem": 13, "name": "Transformer T6", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 7002, "nimSatz": 112 }] },
+    { "elem": 14, "name": "Disconnector DS20", "noElType": 3, "elemType": 30, "total_combinations": 1, "combinations": [{ "combination_id": 7003, "nimSatz": 113 }] },
+    { "elem": 15, "name": "Breaker CB31", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 7004, "nimSatz": 114 }] },
+    { "elem": 16, "name": "Transformer T7", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 7005, "nimSatz": 115 }] },
+    { "elem": 17, "name": "Breaker CB40", "noElType": 2, "elemType": 20, "total_combinations": 1, "combinations": [{ "combination_id": 8001, "nimSatz": 116 }] },
+    { "elem": 18, "name": "Transformer T8", "noElType": 1, "elemType": 10, "total_combinations": 1, "combinations": [{ "combination_id": 8002, "nimSatz": 117 }] },
+    { "elem": 19, "name": "Disconnector DS30", "noElType": 3, "elemType": 30, "total_combinations": 1, "combinations": [{ "combination_id": 8003, "nimSatz": 118 }] }
+  ]
+}
